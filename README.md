@@ -1,4 +1,4 @@
-# FinTech_Project1
+# Housing Analysis Prediction and Analysis
 
 ### Project Scope
 - To calculate housing price MoM growth rates before and after pandemic with Quandl’s state dataset broken into four regions. 
